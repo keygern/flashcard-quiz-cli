@@ -1,0 +1,18 @@
+[
+    {
+        "prompt": "What is the capital of Poland?",
+        "answer": "Warsaw"
+    },
+    {
+        "prompt": "What color is the sky?",
+        "answer": "transparent"
+    },
+    {
+        "prompt": "What is the capital of France?",
+        "answer": "Paris"
+    },
+    {
+        "prompt": "What country borders with U.S to the north?",
+        "answer": "Canada"
+    }
+]
